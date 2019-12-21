@@ -1,8 +1,7 @@
 // Tristan Kerr
-// takerr3@myseneca.ca
-// 022975148
 // OOP244 NBB
-// Milestone 4
+// December 2019
+// https://www.linkedin.com/in/tristan-a-kerr/
 
 #ifndef SDDS_DATE_H__
 #define SDDS_DATE_H__
