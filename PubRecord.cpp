@@ -1,8 +1,8 @@
 // Tristan Kerr
 // OOP244 NBB
-// takerr3@myseneca.ca
-// 022975148
-// Milestone 4
+// December 2019
+// https://www.linkedin.com/in/tristan-a-kerr/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstring>
