@@ -1,3 +1,8 @@
+// Tristan Kerr
+// OOP244 NBB
+// December 2019
+// https://www.linkedin.com/in/tristan-a-kerr/
+
 #ifndef SDDS_COLORS_H__
 #define SDDS_COLORS_H__
 
